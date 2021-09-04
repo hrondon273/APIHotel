@@ -1,4 +1,7 @@
-const express = require('express')
+const express = require('express'),
+    path = require('path'),
+    puerto = process.env.PORT || 3000;
+
 const FS = require('fs');
 const app = express()
 const dbData = JSON.parse(FS.readFileSync('db.json', 'UTF-8'));
