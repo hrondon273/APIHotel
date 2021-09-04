@@ -1,0 +1,1 @@
+Al archivo .env hay que configurarle la variable SECRET

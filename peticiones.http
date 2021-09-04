@@ -1,0 +1,2 @@
+GET http://localhost:3000/APIHotelManagment
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im1hcmlhIiwiaWF0IjoxNjMwNzI1OTE1LCJleHAiOjE2MzA3MjYyMTV9.xz6dlo4wfgxy0dpv5Z8gO6B3zze2WSeS2YD81hPJGZk

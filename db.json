@@ -180,19 +180,5 @@
         "servicios": "Wifi gratis, Traslado aeropuerto, Gimnasio, Bar",
         "familiar": "No"
       }
-    ],
-    "usuarios": [
-      {
-          "id": 1,
-          "nombre": "ivan",
-          "correo": "ivan@dominio.com",
-          "contrasena": "qwerty1234"
-      },
-      {
-          "id": 2,
-          "nombre": "rafael",
-          "correo": "rafael@dominio.es",
-          "contrasena": "asdfgh56789"
-      }
     ]
   }
