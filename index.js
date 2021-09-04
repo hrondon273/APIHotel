@@ -1,7 +1,4 @@
-const express = require('express'),
-    path = require('path'),
-    puerto = process.env.PORT || 3000;
-
+const express = require('express')
 const FS = require('fs');
 const app = express()
 const dbData = JSON.parse(FS.readFileSync('db.json', 'UTF-8'));
@@ -60,7 +57,7 @@ function validateToken(req, res, next){
         }
     });
 }
-
-app.listen(3000, () => {
+let puerto = process.env.PORT || 3000;
+app.listen(puerto, () => {
     console.log('servidor iniciado...')
 });
