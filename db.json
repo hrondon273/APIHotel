@@ -180,5 +180,137 @@
         "servicios": "Wifi gratis, Traslado aeropuerto, Gimnasio, Bar",
         "familiar": "No"
       }
-    ]
+    ],   
+    "usuarios": [
+      {
+          "id": 1,
+          "nombre": "ivan",
+          "correo": "ivan@dominio.com",
+          "contrasena": "qwerty1234"
+      },
+      {
+          "id": 2,
+          "nombre": "rafael",
+          "correo": "rafael@dominio.es",
+          "contrasena": "asdfgh56789"
+      }
+    ],
+    
+    "Resturantes": [
+      {
+        "id": 10000,
+        "nombre": "A Comer Se Dijo",
+        "direccion": "Cl 8 9 Este-05 Colsag",
+        "telefono": "(7) 5745416"
+      },
+      {
+        "id": 20000,
+        "nombre": "El Rancho De Mama",
+        "direccion": "Av5 13-78 Colsag",
+        "telefono": "(7) 5715837"
+      },
+      {
+        "id": 30000,
+        "nombre": "Italian’s Pizza",
+        "direccion": "Av6 Este 5-14 P-1 Popular",
+        "telefono": "(7) 5746024"
+      },
+      {
+        "id": 40000,
+        "nombre": "El Rinconcito Sabroso",
+        "direccion": "Av Libertadores 9 A N-34 Ciudad Jardín",
+        "telefono": "(7) 5770046"
+      },
+      {
+        "id": 50000,
+        "nombre": "Juan K",
+        "direccion": "Av3 Este 1-128 La Ceiba",
+        "telefono": "(7) 5779113"
+      },
+      {
+        "id": 60000,
+        "nombre": "Juan Parrilla",
+        "direccion": "Av Libertadores 17 A-06 L-1 Caobos",
+        "telefono": "(7) 5833231"
+      },
+      {
+        "id": 70000,
+        "nombre": "Brosty Pollo",
+        "direccion": "Cl 16 9 B-09 C.C. Tierra Linda Los Patios",
+        "telefono": "(7) 5800317"
+      },
+      {
+        "id": 80000,
+        "nombre": "Juancho’s Restaurante",
+        "direccion": "Av4 22 N-32 Prados Del Norte",
+        "telefono": "(7) 5782636"
+      },
+      {
+        "id": 90000,
+        "nombre": "Asadero El Sabrosón",
+        "direccion": "Av2 Cl 14 Esq",
+        "telefono": "(7) 5818713"
+      },
+      {
+        "id": 11000,
+        "nombre": "Brosty Pollo La Tertulia",
+        "direccion": "Av0 13-20 Centro",
+        "telefono": "(7) 5730095"
+      },
+      {
+        "id": 22000,
+        "nombre": "Kaktus Restaurante",
+        "direccion": "Cl 2 Av9-9 -6 Quinta Oriental",
+        "telefono": "(7) 5740925"
+      },
+      {
+        "id": 33000,
+        "nombre": "La Chispa Ardiendo",
+        "direccion": "Av11 Este 5 A N-180 Guaimaral",
+        "telefono": "(7) 5742161"
+      },
+      {
+        "id": 44000,
+        "nombre": "La Fogata Roja",
+        "direccion": "Av0 10-18 Centro",
+        "telefono": "(7) 5717385"
+      },
+      {
+        "id": 66000,
+        "nombre": "Don Enrique Restaurante",
+        "direccion": "Av3 E 1-118 Ceiba",
+        "telefono": "(7) 5751693"
+      },
+      {
+        "id": 77000,
+        "nombre": "La Terraza Kennedy",
+        "direccion": "Av Kennedy Et I Manz 1 Lt 1 Atalaya",
+        "telefono": "(7) 5787762"
+      },
+      {
+        "id": 88000,
+        "nombre": "Delicateffen La Dolce Vitta ",
+        "direccion": "Av9 E 7-12 Riviera",
+        "telefono": "(7) 5755746"
+      },
+      {
+        "id": 99000,
+        "nombre": "El Balcon Paisa",
+        "direccion": "Av Libertadores 6-40 Malecón",
+        "telefono": "(7) 5752436"
+      },
+      {
+        "id": 11100,
+        "nombre": "Estanco Y Restaurante",
+        "direccion": "La Muñeca Av5 0 N-21 La Merced",
+        "telefono": "(7) 5781649"
+      },
+      {
+        "id": 22200,
+        "nombre": "Estanco Y Restaurante",
+        "direccion": "La Muñeca Av5 0 N-21 La Merced",
+        "telefono": "(7) 5781649"
+      }
+     ]
+    
   }
