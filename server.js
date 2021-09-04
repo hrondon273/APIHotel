@@ -49,15 +49,14 @@ function validateToken(req, res, next){
     const accessToken = req.headers['authorization'] || req.query.token
     if (!accessToken) res.send('Acceso denegado')
     jwt.verify(accessToken, process.env.SECRET, (err, user) => {
-        if(err){   
-            res.send('Acceso denegado, el token expiró')
-        }else{
+        if(err)res.send('Acceso denegado, el token expiró')
+        else{
             req.user = user;
             next()
         }
-    });
+    })
 }
 let puerto = process.env.PORT || 3000;
 app.listen(puerto, () => {
     console.log('servidor iniciado...')
-});
+})
