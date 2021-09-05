@@ -1,316 +1,276 @@
-{
-    "hoteles": [
-      {
-        "id": 10000,
-        "nombre": "Hotel Casino Internacional By Sercotel",
-        "descripcion": "El hotel Casino Internacional se encuentra en Cúcuta, justo frente al centro comercial Ventura. Ofrece una piscina al aire libre, sauna, gimnasio, conexión Wi-Fi gratuita y un cóctel de bienvenida. Las habitaciones del Hotel Casino Internacional presentan una decoración elegante e incluyen aire acondicionado, TV de pantalla plana por cable, minibar, caja fuerte y un baño privado con ducha y artículos de aseo gratuitos. Todos los días se sirve un desayuno bufé completo y Las Guacas Restaurant ofrece platos internacionales.",
-        "direccion": "Calle 11 No. 2E-75, 540005 Cúcuta, Colombia",
-        "telefono": "(7) 5829898",
-        "servicios": "2 piscinas, Traslado aeropuerto, WiFi gratis, Parkin gratis, Habitaciones familiares. Centro de fitness bueno, Bar",
-        "familiar": "si"
-      },
-      {
-        "id": 20000,
-        "nombre": "Hampton By Hilton Cucuta",
-        "descripcion": "El Hampton By Hilton Cucuta se encuentra en Cúcuta, a 1,3 km de la biblioteca pública de Cúcuta, y ofrece alojamiento con restaurante, aparcamiento privado gratuito y bar. Este hotel de 4 estrellas ofrece servicio de conserjería y mostrador de información turística. El alojamiento cuenta con recepción 24 horas, servicio de enlace con el aeropuerto, centro de negocios y conexión WiFi gratuita.",
-        "direccion": "Avenida 3E Calle 13 A, 540001 Cúcuta, Colombia",
-        "telefono": "(7) 5888058",
-        "servicios": "Translado aeropuerto, WiFi gratis, Parking gratis, Gimnasio, Habitaciones familiares",
-        "familiar": "si"
-      },
-      {
-        "id": 30000,
-        "nombre": "Hotel Don Luis",
-        "descripcion": "El Hotel Don Luis se encuentra en Ocaña y dispone de terraza. Cuenta con recepción 24 horas, servicio de habitaciones y WiFi gratuita en todas las instalaciones. Se ofrece aparcamiento privado por un suplemento.",
-        "direccion": "Carrera 10 11-77, 546552 Ocaña, Colombia",
-        "telefono": " (7) 5626789",
-        "servicios": "WiFi gratis, Habitaciones familiares, servicio de habitaciones",
-        "familiar": "si"
-      },
-      {
-        "id": 40000,
-        "nombre": "ibis Cucuta",
-        "descripcion": "El ibis Cucuta está ubicado en Cúcuta, a 1,2 km de la Biblioteca Pública de Cúcuta, y ofrece alojamiento, restaurante, aparcamiento privado gratuito, bar y salón común. El establecimiento tiene jardín y se halla a 3,1 km del Ecoparque Comfanorte. Hay recepción 24 horas, servicio de enlace con el aeropuerto, servicio de conserjería y WiFi gratuita en todas las zonas.",
-        "direccion": "Calle 15 # 0- 28, 540006 Cúcuta, Colombia",
-        "telefono": "(7) 5956161",
-        "servicios": "Translado aeropuerto, WiFi gratis, Parking gratis, Admite mascotas, Bar",
-        "familiar": "si"
-      },
-      {
-        "id": 50000,
-        "nombre": "Bianco Hotel Boutique",
-        "descripcion": "El Bianco Hotel Boutique está situado en Cúcuta, a 700 metros de la biblioteca pública de Cúcuta y a 5 km del Comfanorte Ecopark, y ofrece alojamiento con terraza y aparcamiento privado gratuito. Cuenta con recepción 24 horas, servicio de habitaciones y WiFi gratuita en todas las instalaciones. El hotel dispone de habitaciones familiares.",
-        "direccion": "Diagonal Santander avenida 0 126, 540001 Cúcuta, Colombia",
-        "telefono": "318 4331939",
-        "servicios": "Wifi gratis, admite mascotas, parking gratis",
-        "familiar": "si"
-      },
-      {
-        "id": 60000,
-        "nombre": "Hotel Restaurante Zhena",
-        "descripcion": "El Hotel Restaurante Zhena se encuentra en Cúcuta, a 2,4 km de la biblioteca pública de Cúcuta, y ofrece alojamiento con restaurante, aparcamiento privado gratuito, bar y salón compartido. Cuenta con recepción 24 horas, servicio de habitaciones y WiFi gratuita en todas las instalaciones. El hotel dispone de habitaciones familiares.",
-        "direccion": "Calle 2N # 3A-26 BARRIO PESCADERO, 540007 Cúcuta, Colombia",
-        "telefono": "(7) 5782075",
-        "servicios": "Wifi gratis, parking gratis, bar",
-        "familiar": "si"
-      },
-      {
-        "id": 70000,
-        "nombre": "Hotel Plaza Cúcuta Center",
-        "descripcion": "El Hotel Plaza Cúcuta Center cuenta con salón común y está ubicado en Cúcuta, en el departamento Norte de Santander, a 1,3 km de la biblioteca pública de Cúcuta y a 5 km del ecoparque Comfanorte. También tiene restaurante, servicio de habitaciones y recepción 24 horas, y WiFi gratuita en todas las zonas. El hotel alberga habitaciones familiares.",
-        "direccion": "Barrio Latino av 4 # 6 - 51 barrio latino cúcuta, 540006 Cúcuta, Colombia",
-        "telefono": "321 2776807",
-        "servicios": "Wifi gratis, Habitaciones familiares",
-        "familiar": "si"
-      },
-      {
-        "id": 80000,
-        "nombre": "Hotel Victoria Plaza Millenium",
-        "descripcion": "El Hotel Victoria Plaza Millenium se encuentra en Cúcuta, a 1,2 km de la biblioteca pública de Cúcuta, y ofrece alojamiento con piscina al aire libre, aparcamiento privado gratuito, jardín y terraza. El alojamiento ofrece recepción 24 horas, servicio de traslado, servicio de habitaciones y conexión WiFi gratuita.",
-        "direccion": "Av. 3 #7A-35, Cúcuta, Norte de Santander",
-        "telefono": "322 4153599",
-        "servicios": "1 piscina, wifi gratis",
-        "familiar": "si"
-      },
-      {
-        "id": 90000,
-        "nombre": "Hotel Marialu",
-        "descripcion": "El Hotel Marialu ofrece alojamiento en Ocaña. El establecimiento cuenta con restaurante, recepción 24 horas, servicio de habitaciones y WiFi gratuita en todas las instalaciones. El hotel dispone de habitaciones familiares.",
-        "direccion": "Carrera 14 #9-53, 546552 Ocaña, Colombia",
-        "telefono": "316 5327345",
-        "servicios": "Mascotas, Internet, Parking gratis",
-        "familiar": "si"
-      },
-      {
-        "id": 11000,
-        "nombre": "Mar Hotel",
-        "descripcion": "El Mar Hotel está situado en Cúcuta y ofrece conexión WiFi gratuita y aparcamiento privado gratuito. El aeropuerto internacional Camilo Daza está a solo 5 km.",
-        "direccion": "Av 7 No 0 - 53, 540001",
-        "telefono": "320 2079409",
-        "servicios": "Traslado aeropuerto, wifi gratis, parking gratis",
-        "familiar": "si"
-      },
-      {
-        "id": 22000,
-        "nombre": "Hotel Zaraya",
-        "descripcion": "Las habitaciones del Zaraya Hotel tienen TV de pantalla plana por cable, aire acondicionado y balcón. El baño es privado y cuenta con ducha y artículos de aseo gratuitos.",
-        "direccion": "Calle 11 N2-40 Centro, 540001 Cúcuta, Colombia",
-        "telefono": "(7) 5834475",
-        "servicios": "piscina, wifi gratis, Bar",
-        "familiar": "si"
-      },
-      {
-        "id": 33000,
-        "nombre": "Hotel Mio Boutique",
-        "descripcion": "El Hotel Mio Boutique se encuentra en Cúcuta, a 2,3 km de la biblioteca pública de Cúcuta, y ofrece alojamiento con restaurante, aparcamiento privado gratuito, bar y jardín. Ofrece habitaciones familiares y terraza. El alojamiento ofrece recepción 24 horas, servicio de traslado, servicio de habitaciones y conexión WiFi gratuita en todo el establecimiento.",
-        "direccion": "Avenida 11E número 5A-35 Colsag, 540003 Cúcuta, Colombia",
-        "telefono": "(7) 5972457",
-        "servicios": "Wifi gratis, parking gratis, Bar, Gimnasio",
-        "familiar": "si"
-      },
-      {
-        "id": 44000,
-        "nombre": "Hotel Arrival",
-        "descripcion": "El Hotel Arrival está situado en Cúcuta, a 6 km de la biblioteca pública de Cúcuta y a 10 km del Ecoparque Comfanorte, y ofrece alojamiento con terraza, conexión WiFi gratuita en todas las instalaciones y aparcamiento privado gratuito. El alojamiento cuenta con recepción 24 horas y consigna de equipaje.",
-        "direccion": "Av. Las Americas #17N -204 BARRIO LOS LAURELES, 540001 Cúcuta, Colombia",
-        "telefono": "311 5538404",
-        "servicios": "Traslado aeropuerto, wifi gratis, admite mascotas",
-        "familiar": "si"
-      },
-      {
-        "id": 55000,
-        "nombre": "Hotel Fenix",
-        "descripcion": "El Hotel Fenix se encuentra en Cúcuta, a 700 metros de la biblioteca pública de Cúcuta, y ofrece alojamiento con piscina al aire libre, aparcamiento privado gratuito, bar y salón compartido. El hotel se encuentra a 2,4 km del Ecoparque Comfanorte y dispone de jardín y terraza. El alojamiento cuenta con recepción 24 horas, servicio de habitaciones y organiza excursiones.",
-        "direccion": "12114 Avenida 7 Barrio el Salado, 540006 Cúcuta, Colombia",
-        "telefono": "323 2200777",
-        "servicios": "Piscina, Bar, Parking gratis",
-        "familiar": "si"
-      },
-      {
-        "id": 66000,
-        "nombre": "Hotel Center Plaza Plus",
-        "descripcion": "El Hotel Center Plaza Plus se encuentra en Cúcuta y ofrece conexión Wi-Fi gratuita. El centro comercial Unicentro está a 1 km del hotel.",
-        "direccion": "Cenabastos Sector T, 540001 Cúcuta, Colombia",
-        "telefono": "(7) 5896711",
-        "servicios": "Traslado aeropuerto, Admite mascotas, WiFi gratis",
-        "familiar": "si"
-      },
-      {
-        "id": 77000,
-        "nombre": "Hotel Balcon Llanero",
-        "descripcion": "El Hotel Balcon Llanero ofrece habitaciones en Cúcuta, a 5 km de la biblioteca pública de Cucuta y a 8 km del Ecoparque Comfanorte. El establecimiento cuenta con restaurante, recepción 24 horas, salón compartido y WiFi gratuita en todas las instalaciones. El hotel dispone de habitaciones familiares.",
-        "direccion": "Av 7a # 18N - 41 Zona Industrial, 540002 Cúcuta, Colombia",
-        "telefono": "311 8113829",
-        "servicios": "Wifi gratis, Habitaciones familiares",
-        "familiar": "si"
-      },
-      {
-        "id": 88000,
-        "nombre": "Hotel Exelsior",
-        "descripcion": "El Hotel Exelsior se encuentra en Cúcuta y alberga un restaurante. Hay conexión WiFi gratuita.",
-        "direccion": "Avenida 3 No. 9 - 65, 540001 Cúcuta, Colombia",
-        "telefono": "(7) 5731868",
-        "servicios": "Wifi Gratis, Parking gratis",
-        "familiar": "si"
-      },
-      {
-        "id": 99000,
-        "nombre": "Hotel CasaBlanca Cucuta",
-        "descripcion": "El Hotel Casa Blanca, situado en Cúcuta, cuenta con una piscina, un restaurante, un bar y habitaciones con conexión Wi-Fi gratuita y balcón privado. El establecimiento dispone de aparcamiento gratuito. El parque de Santander se encuentra a 300 metros.",
-        "direccion": "Avenida 6 # 14-55 Barrio La Playa, 540001 Cúcuta, Colombia",
-        "telefono": "(7) 5821600",
-        "servicios": "Piscina, WiFi gratis, Gimnasio",
-        "familiar": "si"
-      },
-      {
-        "id": 11100,
-        "nombre": "Atlantis Plaza Hotel",
-        "descripcion": "El Atlantis Plaza se encuentra en Cúcuta y ofrece piscina al aire libre, spa y habitaciones con conexión Wi-Fi gratuita. Todos los días se sirve un desayuno colombiano con huevos, cruasanes y arepas.",
-        "direccion": "Calle 8 No 7-55 centro , 540001 Cúcuta, Colombia",
-        "telefono": "(7) 5719202",
-        "servicios": "Piscina, Wifi gratis, Traslado aeropuerto",
-        "familiar": "si"
-      },
-      {
-        "id": 22200,
-        "nombre": "Holiday Inn Cúcuta, an IHG Hotel",
-        "descripcion": "El Holiday Inn Cúcuta, an IHG Hotel se encuentra frente al centro comercial Ventura, a 5 minutos del conocido parque Santander, y ofrece una piscina al aire libre y un restaurante. También se halla cerca del ayuntamiento de San José de Cúcuta, de la catedral y del sector financiero. Proporciona conexión WiFi gratuita.",
-        "direccion": "Calle 11A # 1E - 132 , 110011 Cúcuta, Colombia",
-        "telefono": "(7) 5888007",
-        "servicios": "Wifi gratis, Traslado aeropuerto, Gimnasio, Bar",
-        "familiar": "No"
-      }
-    ],   
-    "usuarios": [
-      {
-          "id": 1,
-          "nombre": "ivan",
-          "correo": "ivan@dominio.com",
-          "contrasena": "qwerty1234"
-      },
-      {
-          "id": 2,
-          "nombre": "rafael",
-          "correo": "rafael@dominio.es",
-          "contrasena": "asdfgh56789"
-      }
+[
+  "hoteles", [
+    [
+      "id", 10000,
+      "nombre", "Hotel Casino Internacional By Sercotel",
+      "descripcion", "Hotel Casino Internacional is located in Cúcuta, right in front of the Ventura shopping center. It offers an outdoor pool, sauna, gym, free Wi-Fi and a welcome cocktail. Rooms at Hotel Casino Internacional feature elegant décor and include air conditioning, flat-screen cable TV, minibar, safe and a private bathroom with shower and free toiletries. A full buffet breakfast is served daily and Las Guacas Restaurant offers international dishes.",
+      "direccion", "Calle 11 No. 2E-75, 540005 Cúcuta, Colombia",
+      "telefono", "(7) 5829898",
+      "servicios", "2 swimming pools, Airport transfer, Free WiFi, Free parking, Family rooms. Fitness center good, Bar",
+      "web", "https,//www.hotelcasinointernacional.com.co",
+      "familiar", "yes"
     ],
-    
-    "Resturantes": [
-      {
-        "id": 10000,
-        "nombre": "A Comer Se Dijo",
-        "direccion": "Cl 8 9 Este-05 Colsag",
-        "telefono": "(7) 5745416"
-      },
-      {
-        "id": 20000,
-        "nombre": "El Rancho De Mama",
-        "direccion": "Av5 13-78 Colsag",
-        "telefono": "(7) 5715837"
-      },
-      {
-        "id": 30000,
-        "nombre": "Italian’s Pizza",
-        "direccion": "Av6 Este 5-14 P-1 Popular",
-        "telefono": "(7) 5746024"
-      },
-      {
-        "id": 40000,
-        "nombre": "El Rinconcito Sabroso",
-        "direccion": "Av Libertadores 9 A N-34 Ciudad Jardín",
-        "telefono": "(7) 5770046"
-      },
-      {
-        "id": 50000,
-        "nombre": "Juan K",
-        "direccion": "Av3 Este 1-128 La Ceiba",
-        "telefono": "(7) 5779113"
-      },
-      {
-        "id": 60000,
-        "nombre": "Juan Parrilla",
-        "direccion": "Av Libertadores 17 A-06 L-1 Caobos",
-        "telefono": "(7) 5833231"
-      },
-      {
-        "id": 70000,
-        "nombre": "Brosty Pollo",
-        "direccion": "Cl 16 9 B-09 C.C. Tierra Linda Los Patios",
-        "telefono": "(7) 5800317"
-      },
-      {
-        "id": 80000,
-        "nombre": "Juancho’s Restaurante",
-        "direccion": "Av4 22 N-32 Prados Del Norte",
-        "telefono": "(7) 5782636"
-      },
-      {
-        "id": 90000,
-        "nombre": "Asadero El Sabrosón",
-        "direccion": "Av2 Cl 14 Esq",
-        "telefono": "(7) 5818713"
-      },
-      {
-        "id": 11000,
-        "nombre": "Brosty Pollo La Tertulia",
-        "direccion": "Av0 13-20 Centro",
-        "telefono": "(7) 5730095"
-      },
-      {
-        "id": 22000,
-        "nombre": "Kaktus Restaurante",
-        "direccion": "Cl 2 Av9-9 -6 Quinta Oriental",
-        "telefono": "(7) 5740925"
-      },
-      {
-        "id": 33000,
-        "nombre": "La Chispa Ardiendo",
-        "direccion": "Av11 Este 5 A N-180 Guaimaral",
-        "telefono": "(7) 5742161"
-      },
-      {
-        "id": 44000,
-        "nombre": "La Fogata Roja",
-        "direccion": "Av0 10-18 Centro",
-        "telefono": "(7) 5717385"
-      },
-      {
-        "id": 66000,
-        "nombre": "Don Enrique Restaurante",
-        "direccion": "Av3 E 1-118 Ceiba",
-        "telefono": "(7) 5751693"
-      },
-      {
-        "id": 77000,
-        "nombre": "La Terraza Kennedy",
-        "direccion": "Av Kennedy Et I Manz 1 Lt 1 Atalaya",
-        "telefono": "(7) 5787762"
-      },
-      {
-        "id": 88000,
-        "nombre": "Delicateffen La Dolce Vitta ",
-        "direccion": "Av9 E 7-12 Riviera",
-        "telefono": "(7) 5755746"
-      },
-      {
-        "id": 99000,
-        "nombre": "El Balcon Paisa",
-        "direccion": "Av Libertadores 6-40 Malecón",
-        "telefono": "(7) 5752436"
-      },
-      {
-        "id": 11100,
-        "nombre": "Estanco Y Restaurante",
-        "direccion": "La Muñeca Av5 0 N-21 La Merced",
-        "telefono": "(7) 5781649"
-      },
-      {
-        "id": 22200,
-        "nombre": "Estanco Y Restaurante",
-        "direccion": "La Muñeca Av5 0 N-21 La Merced",
-        "telefono": "(7) 5781649"
-      }
-     ]
-    
-  }
+    [
+      "id", 20000,
+      "nombre", "Hampton By Hilton Cucuta",
+      "descripcion", "Located in Cucuta, 1.3 km from Cucuta Public Library, Hampton By Hilton Cucuta offers accommodation with a restaurant, free private parking and a bar. This 4-star hotel offers concierge services and a tour desk. Facilities include a 24-hour front desk, airport shuttle service, business center and free Wi-Fi.",
+      "direccion", "Avenida 3E Calle 13 A, 540001 Cúcuta, Colombia",
+      "telefono", "(7) 5888058",
+      "servicios", "Airport transfer, Free WiFi, Free parking, Fitness center, Family rooms",
+      "web", "https,//www.hilton.com/en/locations/colombia/cucuta/hampton/?WT.mc_id=zlada0ww1hx2psh3ggl4advbpp5dkt6multibr7_153665317_1003528&gclid=Cj0KCQjwssyJBhDXARIsAK98ITRqF6dDH0btUgl5Rba844B2ssTvs6ef0blrofls_Ucc7gvECiITsXIaAgdBEALw_wcB&gclsrc=aw.ds",
+      "familiar", "yes"
+    ],
+    [
+      "id", 30000,
+      "nombre", "Hotel Don Luis",
+      "descripcion", "Offering a terrace, Hotel Don Luis is located in Ocaña. It has a 24-hour front desk, room service and free WiFi throughout the property. Private parking is available at an extra charge.",
+      "direccion", "Carrera 10 11-77, 546552 Ocaña, Colombia",
+      "telefono", " (7) 5626789",
+      "servicios", "Free WiFi, Family rooms, Room service",
+      "web", "https,//www.booking.com/hotel/co/don-luis.es.html?aid=356938&label=metagha-link-LUCO-hotel-4505225_dev-desktop_los-1_bw-2_dow-Monday_defdate-1_room-0_gstadt-2_rateid-0_aud-0_gacid-6642513102_mcid-10_ppa-0_clrid-0_ad-1_gstkid-0_checkin-20210906_lp-1029301_r-210357250716217788&sid=0b17bd1967f3d0c7bb111ea7fb172d3b&all_sr_blocks=450522501_279606434_0_0_0&checkin=2021-09-06&checkout=2021-09-07&dest_id=-593633&dest_type=city&group_adults=2&group_children=0&hapos=1&highlighted_blocks=450522501_279606434_0_0_0&hpos=1&no_rooms=1&sr_order=popularity&sr_pri_blocks=450522501_279606434_0_0_0__4900000&srepoch=1630798382&srpvid=c370a596fb450054&ucfs=1&from=searchresults;highlight_room=#hotelTmpl",
+      "familiar", "yes"
+    ],
+    [
+      "id", 40000,
+      "nombre", "ibis Cucuta",
+      "descripcion", "Located in Cúcuta, 1.2 km from Cúcuta Public Library, ibis Cucuta offers accommodation, a restaurant, free private parking, a bar and a shared lounge. The property has a garden and is 3.1 km from Ecoparque Comfanorte. There is a 24-hour front desk, airport shuttle service, concierge service and free WiFi in all areas.",
+      "direccion", "Calle 15 # 0- 28, 540006 Cúcuta, Colombia",
+      "telefono", "(7) 5956161",
+      "servicios", "Airport shuttle, Free WiFi, Free parking, Pets allowed, Bar",
+      "web", "https,//www.booking.com/hotel/co/ibis-cucuta.es.html?aid=356938&label=metagha-link-LUCO-hotel-4288778_dev-desktop_los-1_bw-28_dow-Saturday_defdate-1_room-0_gstadt-2_rateid-0_aud-0_gacid-6642513102_mcid-10_ppa-0_clrid-0_ad-1_gstkid-0_checkin-20211002_lp-1029301_r-1041018031840774908&sid=0b17bd1967f3d0c7bb111ea7fb172d3b&all_sr_blocks=428877801_246025946_2_10_0&checkin=2021-10-02&checkout=2021-10-03&dest_id=-581667&dest_type=city&group_adults=2&group_children=0&hapos=1&highlighted_blocks=428877801_246025946_2_10_0&hpos=1&no_rooms=1&sr_order=popularity&sr_pri_blocks=428877801_246025946_2_10_0__11400000&srepoch=1630798549&srpvid=c22da5eae5690108&ucfs=1&from=searchresults;highlight_room=#hotelTmpl",
+      "familiar", "yes"
+    ],
+    [
+      "id", 50000,
+      "nombre", "Bianco Hotel Boutique",
+      "descripcion", "Located in Cúcuta, 700 metres from Cúcuta Public Library and 5 km from Comfanorte Ecopark, Bianco Hotel Boutique offers accommodation with a terrace and free private parking. It features a 24-hour front desk, room service and free WiFi throughout the property. The hotel has family rooms.",
+      "direccion", "Diagonal Santander avenida 0 126, 540001 Cúcuta, Colombia",
+      "telefono", "318 4331939",
+      "servicios", "Free Wifi, pets allowed, free parking",
+      "web", "https,//biancohotelcucuta.com",
+      "familiar", "yes"
+    ],
+    [
+      "id", 60000,
+      "nombre", "Hotel Restaurante Zhena",
+      "descripcion", "Located in Cúcuta, 2.4 km from Cúcuta Public Library, Hotel Restaurante Zhena offers accommodation with a restaurant, free private parking, a bar and a shared lounge. It features a 24-hour front desk, room service and free WiFi throughout the property. Family rooms are available at the hotel.",
+      "direccion", "Calle 2N # 3A-26 BARRIO PESCADERO, 540007 Cúcuta, Colombia",
+      "telefono", "(7) 5782075",
+      "servicios", "Free Wifi, free parking, bar",
+      "web", "https,//www.booking.com/hotel/co/restaurante-zhena.es.html",
+      "familiar", "yes"
+    ],
+    [
+      "id", 70000,
+      "nombre", "Hotel Plaza Cúcuta Center",
+      "descripcion", "Offering a shared lounge, Hotel Plaza Cúcuta Center is located in Cúcuta in the Norte de Santander department, 1.3 km from Cúcuta Public Library and 5 km from Comfanorte Ecopark. It also has a restaurant, room service and 24-hour reception, and free WiFi in all areas. The hotel has family rooms.",
+      "direccion", "Barrio Latino av 4 # 6 - 51 barrio latino cúcuta, 540006 Cúcuta, Colombia",
+      "telefono", "321 2776807",
+      "servicios", "Free Wifi, Family rooms",
+      "web", "https,//www.booking.com/hotel/co/plaza-cucuta-center.es.html",
+      "familiar", "yes"
+    ],
+    [
+      "id", 80000,
+      "nombre", "Hotel Victoria Plaza Millenium",
+      "descripcion", "Located in Cúcuta, 1.2 km from Cúcuta Public Library, Hotel Victoria Plaza Millenium offers accommodation with an outdoor swimming pool, free private parking, a garden and a terrace. The property offers a 24-hour front desk, shuttle service, room service and free WiFi.",
+      "direccion", "Av. 3 #7A-35, Cúcuta, Norte de Santander",
+      "telefono", "322 4153599",
+      "servicios", "1 swimming pool, free wifi",
+      "web", "https,//hotelvictoriaplazamillenium.com",
+      "familiar", "yes"
+    ],
+    [
+      "id", 90000,
+      "nombre", "Hotel Marialu",
+      "descripcion", "Hotel Marialu offers accommodation in Ocaña. The property has a restaurant, 24-hour front desk, room service and free WiFi throughout the property. The hotel has family rooms.",
+      "direccion", "Carrera 14 #9-53, 546552 Ocaña, Colombia",
+      "telefono", "316 5327345",
+      "servicios", "Pets, Internet, Free parking",
+      "web", "https,//www.booking.com/hotel/co/marialu.es.html",
+      "familiar", "yes"
+    ],
+    [
+      "id", 11000,
+      "nombre", "Mar Hotel",
+      "descripcion", "Mar Hotel is located in Cúcuta and offers free WiFi and free private parking. Camilo Daza International Airport is just 5 km away.",
+      "direccion", "Av 7 No 0 - 53, 540001",
+      "telefono", "320 2079409",
+      "servicios", "Free airport transfer, free wifi, free parking",
+      "web", "https,//www.booking.com/hotel/co/mary.es.html",
+      "familiar", "yes"
+    ],
+    [
+      "id", 22000,
+      "nombre", "Hotel Zaraya",
+      "descripcion", "Rooms at Zaraya Hotel feature a flat-screen cable TV, air conditioning and a balcony. The private bathroom has a shower and free toiletries.",
+      "direccion", "Calle 11 N2-40 Centro, 540001 Cúcuta, Colombia",
+      "telefono", "(7) 5834475",
+      "servicios", "swimming pool, free wifi, Bar",
+      "web", "https,//www.booking.com/hotel/co/zaraya.es.html?aid=311839&label=zaraya-e33FoqhSjU680VfdQQBVZwS388579998623%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-324774188070%3Alp1029301%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YavywThF4buZaN3e9Rle2iM&sid=0b17bd1967f3d0c7bb111ea7fb172d3b&all_sr_blocks=107059201_222330029_2_41_0&checkin=2021-10-02&checkout=2021-10-03&dest_id=-581667&dest_type=city&group_adults=2&group_children=0&hapos=1&highlighted_blocks=107059201_222330029_2_41_0&hpos=1&no_rooms=1&sr_order=popularity&sr_pri_blocks=107059201_222330029_2_41_0__15500000&srepoch=1630798824&srpvid=cef7a673ad930028&ucfs=1&from=searchresults;highlight_room=#hotelTmpl",
+      "familiar", "yes"
+    ],
+    [
+      "id", 33000,
+      "nombre", "Hotel Mio Boutique",
+      "descripcion", "Hotel Mio Boutique is located in Cúcuta, 2.3 km from Cúcuta Public Library, and offers accommodation with a restaurant, free private parking, a bar and a garden. It offers family rooms and a terrace. The property has a 24-hour front desk, shuttle service, room service and free WiFi throughout the property.",
+      "direccion", "Avenida 11E número 5A-35 Colsag, 540003 Cúcuta, Colombia",
+      "telefono", "(7) 5972457",
+      "servicios", "Free Wifi, Free parking, Bar, Fitness center",
+      "web", "https,//www.booking.com/searchresults.es.html?aid=311839;label=mio-boutique-QyUuDF8yIIQCq7BL_bRszwS388376380689%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-73461343383%3Alp1029301%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YavywThF4buZaN3e9Rle2iM;sid=0b17bd1967f3d0c7bb111ea7fb172d3b;checkin=2021-10-02;checkout=2021-10-03;city=-581667;highlighted_hotels=1524275;hlrd=with_av;keep_landing=1;redirected=1;source=hotel&gclid=Cj0KCQjwssyJBhDXARIsAK98ITQEU2MDZNzt8QtVYM-KPmo6aqg0v3Llz1_9naA9cnsSx-SLwxlzK_UaAsIxEALw_wcB&room1=A,A,;",
+      "familiar", "yes"
+    ],
+    [
+      "id", 44000,
+      "nombre", "Hotel Arrival",
+      "descripcion", "Situated in Cúcuta, 6 km from Cúcuta Public Library and 10 km from Ecoparque Comfanorte, Hotel Arrival offers accommodation with a terrace, free WiFi throughout the property and free private parking. There is a 24-hour front desk and luggage storage.",
+      "direccion", "Av. Las Americas #17N -204 BARRIO LOS LAURELES, 540001 Cúcuta, Colombia",
+      "telefono", "311 5538404",
+      "servicios", "Airport transfer, free wifi, pets welcome",
+      "web", "http,//hotelarrival.org",
+      "familiar", "yes"
+    ],
+    [
+      "id", 55000,
+      "nombre", "Hotel Fenix",
+      "descripcion", "Located 700 metres from Cúcuta Public Library in Cúcuta, Hotel Fenix offers accommodation with an outdoor pool, free private parking, a bar and a shared lounge in Cúcuta. The hotel is 2.4 km from Ecoparque Comfanorte and offers a garden and a terrace. The property has a 24-hour front desk, room service and organizes tours.",
+      "direccion", "12114 Avenida 7 Barrio el Salado, 540006 Cúcuta, Colombia",
+      "telefono", "323 2200777",
+      "servicios", "Swimming pool, Bar, Free parking",
+      "web", "https,//www.hotelfenixcucuta.com",
+      "familiar", "yes"
+    ],
+    [
+      "id", 66000,
+      "nombre", "Hotel Center Plaza Plus",
+      "descripcion", "Hotel Center Plaza Plus is located in Cúcuta and offers free Wi-Fi. Unicentro shopping center is 1 km from the hotel.",
+      "direccion", "Cenabastos Sector T, 540001 Cúcuta, Colombia",
+      "telefono", "(7) 5896711",
+      "servicios", "Airport transfer, Pets allowed, Free WiFi",
+      "web", "https,//www.booking.com/hotel/co/center-plaza-plus.es.html?aid=311839&label=center-plaza-plus-7z4p1_JqErWGesIVvMVy5wS388465019700%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-325698598931%3Alp1029301%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YavywThF4buZaN3e9Rle2iM&sid=0b17bd1967f3d0c7bb111ea7fb172d3b&all_sr_blocks=107068101_110122228_0_0_0&checkin=2021-10-02&checkout=2021-10-03&dest_id=-581667&dest_type=city&group_adults=2&group_children=0&hapos=1&highlighted_blocks=107068101_110122228_0_0_0&hpos=1&no_rooms=1&sr_order=popularity&sr_pri_blocks=107068101_110122228_0_0_0__7000000&srepoch=1630799006&srpvid=694aa6ce2b0e007a&ucfs=1&from=searchresults;highlight_room=#hotelTmpl",
+      "familiar", "yes"
+    ],
+    [
+      "id", 77000,
+      "nombre", "Hotel Balcon Llanero",
+      "descripcion", "Hotel Balcon Llanero offers rooms in Cúcuta, 5 km from Cucuta Public Library and 8 km from Ecoparque Comfanorte. The property features a restaurant, a 24-hour front desk, a shared lounge and free WiFi throughout the property. The hotel has family rooms.",
+      "direccion", "Av 7a # 18N - 41 Zona Industrial, 540002 Cúcuta, Colombia",
+      "telefono", "311 8113829",
+      "servicios", "Free Wifi, Family rooms",
+      "web", "https,//www.booking.com/hotel/co/balcon-llanero.es.html?aid=318615&label=Spanish_Colombia_ES_CO_20153959105-JvWA_BiunE_YalmU9PDZ_QS217248069309%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atidsa-162435870265%3Alp1029301%3Ali%3Adec%3Adm&sid=0b17bd1967f3d0c7bb111ea7fb172d3b&all_sr_blocks=631008004_246118749_2_1_0&checkin=2021-10-02&checkout=2021-10-03&dest_id=-581667&dest_type=city&group_adults=2&group_children=0&hapos=1&highlighted_blocks=631008004_246118749_2_1_0&hpos=1&no_rooms=1&sr_order=popularity&sr_pri_blocks=631008004_246118749_2_1_0__6000000&srepoch=1630799048&srpvid=537aa6e35c6800a8&ucfs=1&from=searchresults;highlight_room=#hotelTmpl",
+      "familiar", "yes"
+    ],
+    [
+      "id", 88000,
+      "nombre", "Hotel Exelsior",
+      "descripcion", "Offering a restaurant, Hotel Exelsior is located in Cúcuta. Free WiFi access is available.",
+      "direccion", "Avenida 3 No. 9 - 65, 540001 Cúcuta, Colombia",
+      "telefono", "(7) 5731868",
+      "servicios", "Free Wifi, Free Parking",
+      "web", "https,//www.booking.com/hotel/co/exelsior.es.html?aid=356938&label=metagha-link-LUCO-hotel-1070604_dev-desktop_los-1_bw-15_dow-Sunday_defdate-1_room-0_gstadt-2_rateid-0_aud-0_gacid-6642513102_mcid-10_ppa-0_clrid-0_ad-1_gstkid-0_checkin-20210919_lp-1029301_r-8269284061819039905&sid=0b17bd1967f3d0c7bb111ea7fb172d3b&all_sr_blocks=107060401_222331222_2_9_0&checkin=2021-09-19&checkout=2021-09-20&dest_id=-581667&dest_type=city&group_adults=2&group_children=0&hapos=1&highlighted_blocks=107060401_222331222_2_9_0&hpos=1&no_rooms=1&sr_order=popularity&sr_pri_blocks=107060401_222331222_2_9_0__11200000&srepoch=1630799094&srpvid=0243a6faccc000ae&ucfs=1&from=searchresults;highlight_room=#hotelTmpl",
+      "familiar", "yes"
+    ],
+    [
+      "id", 99000,
+      "nombre", "Hotel CasaBlanca Cucuta",
+      "descripcion", "Located in Cúcuta, Hotel Casa Blanca features a swimming pool, a restaurant, a bar and rooms with free Wi-Fi and a private balcony. Free parking is available on site. Santander Park is 300 meters away.",
+      "direccion", "Avenida 6 # 14-55 Barrio La Playa, 540001 Cúcuta, Colombia",
+      "telefono", "(7) 5821600",
+      "servicios", "Swimming pool, Free WiFi, Gym",
+      "web", "https,//www.hotelcasablanca.com.co",
+      "familiar", "yes"
+    ],
+    [
+      "id", 11100,
+      "nombre", "Atlantis Plaza Hotel",
+      "descripcion", "Atlantis Plaza is located in Cúcuta and offers an outdoor pool, spa and rooms with free Wi-Fi. A Colombian breakfast with eggs, croissants and arepas is served daily.",
+      "direccion", "Calle 8 No 7-55 centro , 540001 Cúcuta, Colombia",
+      "telefono", "(7) 5719202",
+      "servicios", "Swimming pool, Free Wifi, Airport transfer",
+      "web", "https,//www.atlantisplazahotel.com/es/",
+      "familiar", "yes"
+    ],
+    [
+      "id", 22200,
+      "nombre", "Holiday Inn Cúcuta, an IHG Hotel",
+      "descripcion", "Holiday Inn Cúcuta, an IHG Hotel is located across from the Ventura shopping center, 5 minutes from the popular Santander Park, and offers an outdoor pool and a restaurant. It is also close to San José de Cúcuta's town hall, the cathedral and the financial sector. Free Wi-Fi access is available.",
+      "direccion", "Calle 11A # 1E - 132 , 110011 Cúcuta, Colombia",
+      "telefono", "(7) 5888007",
+      "servicios", "Free Wifi, Airport transfer, Fitness center, Bar",
+      "web", "https,//www.ihg.com/holidayinn/hotels/us/es/cucuta/cucco/hoteldetail",
+      "familiar", "yes"
+    ]
+  ],
+  "restaurantes", [
+    [
+      "id", 1000,
+      "Nombre", "SPEZIA",
+      "descripcion", "Home delivery, Take-out food, Reservations, Seating, Parking available, On-street parking, Customer parking, Valet parking, Free private parking, Television, High chairs available, Wheelchair accessible, Alcoholic beverages, Full bar, Wine and beer",
+      "direccion", "calle 21 N-0E45 BARRIO BLANCO, Cúcuta 057 Colombia",
+      "web", "http,//www.speziarestaurante.com/"
+    ],
+    [
+      "id", 2000,
+      "Nombre", "Restaurante Londero's Sur",
+      "descripcion", "Home delivery, Take-out food, Reservations, Seating, Parking available, On-street parking, Customer parking, Valet parking, Free private parking, Television, High chairs available, Wheelchair accessible, Alcoholic beverages, Full bar, Wine and beer",
+      "direccion", "Avenida Libertadores Avenida Libertadores 0E-60 Barrio Blanco, Cúcuta Colombia",
+      "web", "https,//www.facebook.com/londerosurcucuta/?locale2=es_LA"
+    ],
+    [
+      "id", 3000,
+      "Nombre", "Galileo Gourmet",
+      "descripcion", "Reservations, Seating, Full bar, Wine and beer, Free Wi-Fi, Table service, Take-out service, Outdoor seating, Private dining, Wheelchair accessible, Alcoholic beverages served",
+      "direccion", "Av 3E # 14A- 25, Cúcuta 57 Colombia",
+      "web", "http,//galileo.com.co"
+    ],
+    [
+      "id", 4000,
+      "Nombre", "Molinito Restaurante",
+      "descripcion", "Reservations, Seating, Wheelchair accessible, Alcoholic beverages, Full bar, Table service, Take-out food, Outdoor seating, Parking available, Street parking, Customer parking, Free private parking, Television, High chairs available, Wine and beer, Digital payments, Free WiFi, Credit cards accepted, Dog friendly, Family style, Gift cards available",
+      "direccion", "\nLibertadores Av, 18 st - 60, Cúcuta Colombia",
+      "web", "https,//www.molinitorestaurante.com"
+    ],
+    [
+      "id", 5000,
+      "Nombre", "Restaurante Rancho & Lena",
+      "descripcion", "Take-out, Reservations, Seating, Wheelchair accessible, Alcoholic beverages, Outdoor seating, Parking available, High chairs available, Table service",
+      "direccion", "Av Libertadores Cl 4 13 Este-55, Cúcuta Colombia",
+      "web", "https,//www.tripadvisor.co/Restaurant_Review-g676525-d4749896-Reviews-Restaurante_Rancho_Lena-Cucuta_Norte_de_Santander_Department.html"
+    ],
+    [
+      "id", 6000,
+      "Nombre", "Rodizio",
+      "descripcion", "Home delivery, Take-away, Buffet, Seating, On-Street parking, Free private parking, Television, Wheelchair accessible, Accepts alcohol, Accepts American Express, Accepts MasterCard, Accepts Visa, Digital payments, Cash only, Free WiFi, Reservations, Accepts credit cards, Table service, Outdoor seating, Free WiFi, Free parking, Free WiFi, Outdoor seating",
+      "direccion", "Avenida Los Libertadores- Malecón #10-121, Cúcuta Colombia",
+      "web", "https,//www.tripadvisor.co/Restaurant_Review-g676525-d1061416-Reviews-Rodizio-Cucuta_Norte_de_Santander_Department.html"
+    ],
+    [
+      "id", 7000,
+      "Nombre", "Restaurante Madeira",
+      "descripcion", "Reservations, Seating, Wheelchair Accessible, Free Wi-Fi, Table Service",
+      "direccion", "Calle 11 1 - 132 Hotel Holiday Inn Cucuta, Piso 6, Cúcuta 540006 Colombia",
+      "web", "https,//www.facebook.com/RestauranteMadeira"
+    ],
+    [
+      "id", 8000,
+      "Nombre", "Restaurante Bar 360°",
+      "descripcion", "Free private parking, Full bar, Beer and wine, Accept American Express, Accept Mastercard, Accept Visa, Free WiFi, Home delivery, Take-away, Reservations, Outdoor seating, Seating, Television, High chairs available, Wheelchair accessible, Alcohol accepted, Credit cards accepted, Table service",
+      "direccion", "Avenida 6# 14-55 Hotel CasaBlanca, Cúcuta Colombia",
+      "web", "https,//www.hotelcasablanca.com.co/360.php"
+    ],
+    [
+      "id", 9000,
+      "Nombre", "Restaurante An´k",
+      "descripcion", "Home delivery, Take-out, Reservations, Seating, Parking available, Customer parking, High chairs available, Wheelchair accessible, Alcoholic beverages, Free Wi-Fi, Table service, Full bar, Restaurant service",
+      "direccion", "Calle 15 #3E-52 Esquina Caobos, Cúcuta 540001 Colombia",
+      "web", "https,//www.restauranteank.com"
+    ],
+    [
+      "id", 10000,
+      "Nombre", "Vianka Pizzería",
+      "descripcion", "Home delivery, Take-away, Reservations, Seating, Alcoholic beverages, Free Wi-Fi, Table service",
+      "direccion", "Calle 15 #3e-52 Segundo Piso Ank Restaurante Caobos, Cúcuta Colombia",
+      "web", "https,//www.viankapizzeria.com.co"
+    ]
+  ]
+]

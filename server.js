@@ -9,9 +9,8 @@ app.use(express.urlencoded({extended: false}))
 app.use(express.json())
 
 
-app.get('/APIHotelManagment', validateToken, (req, res) => {
-    res.json({        
-        username: req.user,
+app.get('/APIHotelManagement', validateToken, (req, res) => {
+    res.json({ 
         dbData
     })
 });
@@ -33,7 +32,6 @@ app.post('/auth', (req, res) => {
     const {username, password} = req.body
 
     const user = {username: username}
-
     const accessToken = generateAccessToken(user)
     res.header('authorization', accessToken).json({
         message: 'Usuario autenticado',
